@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I am João Pedro👋
 
-<!--
-**joaopedrovbs/joaopedrovbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Badge](https://img.shields.io/badge/joaopedrovbs-blue?logo=twitter&style=for-the-badge)](https://twitter.com/joaopedrovbs)
+[![Linkedin Badge](https://img.shields.io/badge/-Joao%20pedro%20Vilas-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopedrovbs/)](https://www.linkedin.com/in/joaopedrovbs/)
+[![Blog Badge](https://img.shields.io/badge/my%20blog-blue?logo=PowerShell&logoColor=white&style=for-the-badge)]()
 
-Here are some ideas to get you started:
+I'm a 25-year-old engineer from Brazil. I love to work with Embedded Systems, Space hardware, and Web Dev, which are fields that have always fascinated me. I have a passion for using my expertise in these areas to problem solve and develop cutting-edge technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> Languages and Tools I use </h2>
+
+<img height="30" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img height="30" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img height="30" src="https://img.shields.io/badge/kicad-314CB0?style=for-the-badge&logo=kicad&logoColor=white"> <img height="30" src="https://img.shields.io/badge/arm-0091BD?style=for-the-badge&logo=arm&logoColor=white"> <img height="30" src="https://img.shields.io/badge/fusion%20360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white"> <img height="30" src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
+<img height="30" src="https://img.shields.io/badge/stm32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"> <img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img height="30" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> <img height="30" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> <img height="30" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white"> <img height="30" src="https://img.shields.io/badge/capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white"> <img height="30" src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white"> <img height="30" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img height="30" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+<img height="30" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"> <img height="30" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img height="30" src="https://img.shields.io/badge/MongoDB-00000F?style=for-the-badge&logo=mongodb&logoColor=white"> <img height="30" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"> <img height="30" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img height="30" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">  <img height="30" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img height="30" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
