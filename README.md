@@ -2,9 +2,8 @@
 
 [![Twitter Badge](https://img.shields.io/badge/joaopedrovbs-blue?logo=twitter&style=for-the-badge)](https://twitter.com/joaopedrovbs)
 [![Linkedin Badge](https://img.shields.io/badge/-Joao%20pedro%20Vilas-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopedrovbs/)](https://www.linkedin.com/in/joaopedrovbs/)
-[![Blog Badge](https://img.shields.io/badge/my%20blog-blue?logo=PowerShell&logoColor=white&style=for-the-badge)]()
 
-I'm a 26-year-old engineer from Brazil. I love to work with Embedded Systems, Space hardware, and Web Dev, which are fields that have always fascinated me. I have a passion for using my expertise in these areas to problem solve and develop cutting-edge technology. Today I work as a Data Engineer at Tractian, after some time working as a Hardware Engineer developing new sensors. 
+I'm a 27-year-old engineer from Brazil. I love to work with Embedded Systems, Space hardware, and Programming, which are fields that have always fascinated me. I have a passion for using my expertise in these areas to problem-solve and develop cutting-edge technology. Today I work as an IoT Data Engineer at Tractian, after some time working as a Hardware Engineer developing new sensors. 
 
 <h2> Languages and Tools I use </h2>
 
