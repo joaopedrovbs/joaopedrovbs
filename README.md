@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/joaopedrovbs-blue?logo=twitter&style=for-the-badge)](https://twitter.com/joaopedrovbs)
 [![Linkedin Badge](https://img.shields.io/badge/-Joao%20pedro%20Vilas-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopedrovbs/)](https://www.linkedin.com/in/joaopedrovbs/)
 
-I'm a 27-year-old engineer from Brazil. I love to work with Embedded Systems, Space hardware, and Programming, which are fields that have always fascinated me. I have a passion for using my expertise in these areas to problem-solve and develop cutting-edge technology. Today I am an IoT Data Engineering Tech Lead at Tractian. In the past I built and launched alongside my team at [PION Labs](https://github.com/pion-labs) brazil's first private sector satellite, PION-BR1, and cheap Educational Satellite Kits made for classroom use.
+I'm a 27-year-old engineer from Brazil. I love to work with Embedded Systems, Space hardware, and Coding, which are fields that have always fascinated me. I have a passion for using my expertise in these areas to problem-solve and develop cutting-edge technology. Today, I am a Fellow Engineer at Tractian. In the past, I built and launched alongside my team at [PION Labs](https://github.com/pion-labs) Brazil's first private sector satellite, PION-BR1, and we sold over 500 cheap Educational Satellite Kits for classroom use. Before that, I built robots for every kind of competition, from robot soccer to robot rescue simulations.
 
 <h2> Languages and Tools I use </h2>
 
